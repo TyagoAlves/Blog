@@ -8,7 +8,7 @@ tags:
 
 # 🎯 Estratégia Atual: Foco em TI (Brasília)
 
-Brasília é o melhor lugar do país para quem estuda para TI. Com a base consolidada nas bancas FGV e FCC, a pontuação de 60,5 pontos coloca você em totais condições de brigar pelas vagas nos próximos editais no DF.
+Brasília é o melhor lugar do país para quem estuda para TI. Com a base consolidada nas bancas FGV e FCC, vamos aos próximos editais no DF.
 
 **Próximo Passo Estratégico:** Mirar no **CNU 2 (FGV)** e usar as matérias básicas dele como tronco comum. A cobrança de desenvolvimento e engenharia de software da FGV no CNU será idêntica à enfrentada na Dataprev.
 
